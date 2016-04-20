@@ -1,0 +1,24 @@
+{
+  "name": "analog-phone-number-picker",
+  "version": "0.0.1",
+  "devDependencies": {
+    "autoprefixer": "^6.3.3",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.1",
+    "gulp-minify": "0.0.7",
+    "gulp-postcss": "^6.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-webserver": "^0.9.1",
+    "postcss": "^5.0.19",
+    "postcss-browser-reporter": "^0.4.0",
+    "postcss-cssnext": "^2.5.1",
+    "postcss-font-magician": "^1.4.0",
+    "postcss-import": "^8.0.2",
+    "postcss-reporter": "^1.3.3",
+    "postcss-url": "^5.1.1",
+    "precss": "^1.4.0",
+    "reset.css": "^2.0.2"
+  }
+}
